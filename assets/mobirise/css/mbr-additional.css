@@ -1338,6 +1338,42 @@ section.lazy-placeholder:after {
 .cid-rKVyHGq474 .card-wrapper {
   height: 100%;
 }
+.cid-rMyBeeLtDT {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/sabonetes.cosmeticosartesanais-54247676-123386165429558-988503543967926000-n-1079x565.jpg");
+}
+.cid-rMyBeeLtDT .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rMyBeeLtDT .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rMyBeeLtDT .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rMyBeeLtDT .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rMyBeeLtDT B {
+  color: #006806;
+}
+.cid-rMyBeeLtDT .mbr-text,
+.cid-rMyBeeLtDT .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rMyBeeLtDT H1 {
+  color: #fcff00;
+}
 .cid-rMy9A81MCS {
   padding-top: 15px;
   padding-bottom: 30px;
